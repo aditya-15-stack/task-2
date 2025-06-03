@@ -1,6 +1,7 @@
 # task-2
 README - Revenue Insight Dashboard for Hospitality Analytics
 This project is a Power BI dashboard that provides revenue insights for hotels. It helps hotel managers make better decisions using data on bookings, revenue, guest behavior, and room types.
+<br>
 🔧 Tools Used
 - Power BI Desktop – For building dashboards and reports
 - Power Query – For cleaning and transforming the data
